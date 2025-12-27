@@ -26,6 +26,19 @@ def sum_series(n):
 
 print(sum_series(10))
 
+def calculate():
+  x = int(input("Enter num1: "))
+  y = int(input("Enter num2: "))
+  c = input("Choose operation (add/sub): ")
+  if c == 'add':
+    print(f"Sum is {x+y}")
+  elif c == 'sub':
+    print(f"Difference is {x-y}")
+  else:
+    print("Invalid operation")
+
+calculate()
+
   
 
   
