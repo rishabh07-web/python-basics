@@ -15,6 +15,7 @@ Real-world examples:
 * A string is a sequence of characters
 * Strings are mainly used to store text and user input
 * Strings are widely used in displaying messages, names, passwords, and commands
+
 Important:
 * Even numbers entered by users are treated as strings unless converted
 * This is why programs may fail if input is not handled properly
@@ -24,6 +25,7 @@ Important:
  * Programs expect input in a specific format/data type (like numbers)
  * Users may enter unexpected values such as letters or symbols
  * When a program tries to use incorrect input, it may crash
+ 
  Solution:
  * Programs must validate input
  * Error handling mechanisms are used to prevent crashes
