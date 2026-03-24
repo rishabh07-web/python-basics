@@ -9,7 +9,7 @@ def max_number(list):
 
 lst = []
 
-n = int(input("Enter size of the list here: "))
+n = int(input("Enter the size of list here: "))
 
 for i in range(n):
     x = int(input("Enter number: "))
