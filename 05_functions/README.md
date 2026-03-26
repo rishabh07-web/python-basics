@@ -21,6 +21,12 @@ This folder contains practice programs focused on understanding and applying **f
 3. **count_even.py**
    Function takes a list and returns the count of even numbers.
 
+4. **marks_analysis.py**
+   Simple marks analysis using functions
+ 
+5. **marks_full_analysis.py**
+   Modular multi-function marks analysis (input, processing, reporting separation)
+
 ## Learning Outcome
 
 This practice helps in improving program structuring skills, code readability, and problem-solving using modular design. Functions make programs easier to debug, reuse, and scale for larger applications.
